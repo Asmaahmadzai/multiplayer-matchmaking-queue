@@ -1,8 +1,3 @@
-/*************************************************
- * Student Name: Asma Ahmadzai
- * Student Number: 101333739
- * SYSC1006 - Assignment 03
- *************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
